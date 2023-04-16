@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Bioyinks Snapshot Nexus Repository </name>
 	      <url>http://3.132.213.192:8081/repository/tesla-abbysanpshot/</url>
 	    </snapshotRepository>
 	    
